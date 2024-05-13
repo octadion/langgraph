@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+psycopg2-binary
+chromadb
+pypdf
+numexpr
+sqlparse
+python-dotenv
