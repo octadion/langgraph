@@ -11,7 +11,7 @@ try:
         {
             "messages": [
                 HumanMessage(
-                    content="Apakah ada anggota yang berusia di atas 50 tahun?"
+                    content="buat kesimpulan apa itu rendang!"
                 )
             ],
         },
